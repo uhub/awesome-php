@@ -1416,3 +1416,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [podio/podio-php](https://github.com/podio/podio-php) - PHP Client for the Podio API.
 * [jasonlewis/resource-watcher](https://github.com/jasonlewis/resource-watcher) - Simple PHP resource watcher library.
 * [arshaw/phpti](https://github.com/arshaw/phpti) - PHP Template Inheritance (in straight PHP)
+* [highideas/laravel-users-online](https://github.com/highideas/laravel-users-online) - Show the users online in your Laravel application
