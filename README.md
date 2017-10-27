@@ -1001,14 +1001,13 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [imanee/imanee](https://github.com/imanee/imanee) - php image manipulation library for fun projects
 * [FriendsOfCake/CakePdf](https://github.com/FriendsOfCake/CakePdf) - CakePHP3: Plugin for creating and/or rendering PDFs, supporting several popular PDF engines.
 * [thomasbachem/php-short-array-syntax-converter](https://github.com/thomasbachem/php-short-array-syntax-converter) - Command-line script to convert PHP's array() syntax to PHP 5.4's short array syntax []
-* [shumkov/Rediska](https://github.com/shumkov/Rediska) - Full-featured PHP client for key-value database Redis
+* [shumkov/Rediska](https://github.com/shumkov/Rediska) - Full-featured PHP client for key-value database Redis (no longer maintained)
 * [padraic/mockery](https://github.com/padraic/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succint API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 * [kalcaddle/KODExplorer](https://github.com/kalcaddle/KODExplorer) - A web based file manager,WebIDE
 * [akalongman/php-telegram-bot](https://github.com/akalongman/php-telegram-bot) - PHP Telegram Bot based on the official Telegram Bot API
 * [ParsePlatform/parse-php-sdk](https://github.com/ParsePlatform/parse-php-sdk) - The Parse PHP SDK.
 * [clickalicious/phpMemAdmin](https://github.com/clickalicious/phpMemAdmin) - Bringing Memcached to the web
 * [Porto-SAP/Hello-API](https://github.com/Porto-SAP/Hello-API) - A Starter providing everything to build a modern API, with PHP and Laravel 5.4
-* [Shumkov/Rediska](https://github.com/Shumkov/Rediska) - Full-featured PHP client for key-value database Redis
 * [sensiolabs/SensioGeneratorBundle](https://github.com/sensiolabs/SensioGeneratorBundle) - Generates Symfony bundles, entities, forms, CRUD, and more...
 * [mandango/mandango](https://github.com/mandango/mandango) - Mandango is a simple, poweful and ultrafast Object Document Mapper (ODM) for PHP and MongoDB.
 * [Vectorface/dunit](https://github.com/Vectorface/dunit) - Test code against multiple versions of PHP with the help of docker
