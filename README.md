@@ -1501,3 +1501,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [podio/podio-php](https://github.com/podio/podio-php) - PHP Client for the Podio API.
 * [jasonlewis/resource-watcher](https://github.com/jasonlewis/resource-watcher) - Simple PHP resource watcher library.
 * [arshaw/phpti](https://github.com/arshaw/phpti) - PHP Template Inheritance (in straight PHP)
+* [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
