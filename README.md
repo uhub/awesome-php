@@ -1674,3 +1674,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [jasonlewis/resource-watcher](https://github.com/jasonlewis/resource-watcher) - Simple PHP resource watcher library.
 * [arshaw/phpti](https://github.com/arshaw/phpti) - PHP Template Inheritance (in straight PHP)
 * [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
+  * [PHPHeadlessChrome](https://github.com/DaanDeSmedt/PHPHeadlessChrome) - A Headless Chrome wrapper for converting URL / HTML to a PDF / screenshot.
