@@ -19,6 +19,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
 * [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 * [erusev/parsedown](https://github.com/erusev/parsedown) - Markdown Parser in PHP
+* [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - Easy work with virtual wallet
 * [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 * [filp/whoops](https://github.com/filp/whoops) - PHP errors for cool kids
 * [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
