@@ -521,6 +521,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [VisualPHPUnit/VisualPHPUnit](https://github.com/VisualPHPUnit/VisualPHPUnit) - A PHPUnit GUI.
 * [kahlan/kahlan](https://github.com/kahlan/kahlan) - :heavy_check_mark: PHP Test Framework for Freedom, Truth, and Justice
 * [symfony/serializer](https://github.com/symfony/serializer) - With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.
+* [schmittjoh/serializer](https://github.com/schmittjoh/serializer) - Library for (de-)serializing data of any complexity (supports XML, JSON, YAML) http://jmsyst.com/libs/serializer.
 * [KnpLabs/KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) - SEO friendly Symfony paginator to sort and paginate
 * [wordplate/wordplate](https://github.com/wordplate/wordplate) - A modern WordPress stack built with Composer. It simplifies the fuzziness around WordPress development.
 * [tpyo/amazon-s3-php-class](https://github.com/tpyo/amazon-s3-php-class) - A standalone Amazon S3 (REST) client for PHP 5/CURL
