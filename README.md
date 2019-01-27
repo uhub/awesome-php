@@ -1521,7 +1521,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [dryphp/bitcoin.php](https://github.com/dryphp/bitcoin.php) - Bitcoin library for PHP.
 * [analogic/lescript](https://github.com/analogic/lescript) - Simplified PHP ACME client
 * [consolidation-org/Robo](https://github.com/consolidation-org/Robo) - Modern task runner for PHP
-* [ryancramerdesign/ProcessWire](https://github.com/ryancramerdesign/ProcessWire) - ProcessWire 2.7. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
+* [processwire/processwire](https://github.com/processwire/processwire) - ProcessWire 3.0. PHP 5 based CMS and CMF (content management system and framework). See the dev branch for the latest development version (new versions weekly).
 * [crysalead/kahlan](https://github.com/crysalead/kahlan) - Unit/BDD PHP Test Framework for Freedom, Truth, and Justice
 * [facebook/facebook-php-sdk-v4](https://github.com/facebook/facebook-php-sdk-v4) - The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.com/docs/php
 * [claudehohl/Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP
