@@ -315,6 +315,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [akaunting/akaunting](https://github.com/akaunting/akaunting) - Free and Online Accounting Software
 * [craftcms/cms](https://github.com/craftcms/cms) - Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
+* [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input
 * [kakserpom/phpdaemon](https://github.com/kakserpom/phpdaemon) - Asynchronous server-side framework for network applications implemented in PHP using libevent
 * [easy-swoole/easyswoole](https://github.com/easy-swoole/easyswoole) - High performance  Coroutine PHP Framework, base on Swoole
 * [reactphp/promise](https://github.com/reactphp/promise) - Promises/A implementation for PHP.
