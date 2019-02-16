@@ -32,6 +32,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [octobercms/october](https://github.com/octobercms/october) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 * [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).
 * [cakephp/cakephp](https://github.com/cakephp/cakephp) - CakePHP: The Rapid Development Framework for PHP - Official Repository
+* [samgan-khan/cristeena](https://github.com/samgan-khan/cristeena) - CakePHP 3.x based multi-role dashboard back-end template with requireJS support. 
 * [overtrue/wechat](https://github.com/overtrue/wechat) - :package: It is probably the best SDK in the world for developing WeChat App.
 * [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 * [swiftmailer/swiftmailer](https://github.com/swiftmailer/swiftmailer) - Comprehensive mailing tools for PHP
