@@ -6,6 +6,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 * [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
+* [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with PHP/Composer support (and many others).
 * [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 * [domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) - sample code for several design patterns in PHP
 * [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
