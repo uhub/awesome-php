@@ -3,6 +3,7 @@
 A curated list of awesome PHP frameworks, libraries and software.
 
 * [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
+* [SparkPHP Framework](https://github.com/spark-php/spark) - An effective,fast,stable Framework for PHP
 * [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
 * [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
