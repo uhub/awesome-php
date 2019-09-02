@@ -1761,3 +1761,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [arshaw/phpti](https://github.com/arshaw/phpti) - PHP Template Inheritance (in straight PHP)
 * [highideas/laravel-users-online](https://github.com/highideas/laravel-users-online) - Show the users online in your Laravel application
 * [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework) - SilverStripe Framework, the MVC framework that powers SilverStripe CMS
+* [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) - It validates PSR-7 messages (HTTP request/response) against OpenAPI specifications
