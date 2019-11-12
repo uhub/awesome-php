@@ -25,6 +25,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.
 * [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
 * [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
+* [tacnoman/dephpugger](https://github.com/tacnoman/dephpugger) - Dephpugger is a debug with breakpoints to run in terminal
 * [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
 * [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
 * [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
