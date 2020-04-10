@@ -558,3 +558,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [toin0u/DigitalOcean](https://github.com/toin0u/DigitalOcean) - PHP 5.3+ library which helps you to interact with the DigitalOcean API
 * [kzykhys/PHPGit](https://github.com/kzykhys/PHPGit) - A Git wrapper for PHP5.3+
 * [jeremeamia/acclimate-container](https://github.com/jeremeamia/acclimate-container) - Adapters for PHP framework containers to an interoperable interface
+* [Ecotone](https://docs.ecotone.tech/) - Enables message driven architecture and provides building blocks to follow DDD and CQRS principles.
