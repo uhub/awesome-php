@@ -399,7 +399,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [voryx/Thruway](https://github.com/voryx/Thruway) - PHP Client and Router Library for Autobahn and WAMP (Web Application Messaging Protocol) for Real-Time Application Messaging
 * [hoaproject/Ruler](https://github.com/hoaproject/Ruler) - The Hoa\Ruler library.
 * [upwork/phystrix](https://github.com/upwork/phystrix) - Phystrix is a latency and fault tolerance library for PHP, inspired by Netflix’s Hystrix
-* [JakubOnderka/PHP-Parallel-Lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
+* [php-parallel-lint/PHP-Parallel-Lint](https://github.com/php-parallel-lint/PHP-Parallel-Lint) - This tool check syntax of PHP files faster than serial check with fancier output.
 * [CodeSleeve/stapler](https://github.com/CodeSleeve/stapler) - ORM-based file upload package for php.
 * [mnapoli/bref](https://github.com/mnapoli/bref) - Serverless PHP on AWS Lambda
 * [PHPAuth/PHPAuth](https://github.com/PHPAuth/PHPAuth) -   PHPAuth is a secure PHP Authentication class that easily integrates into any site.
