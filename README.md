@@ -383,3 +383,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [matomo-org/device-detector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model.
 * [laravelio/portal](https://github.com/laravelio/portal) - The Laravel.io Community Portal
 * [baijunyao/thinkphp-bjyadmin](https://github.com/baijunyao/thinkphp-bjyadmin) - thinkphp 整合 Auth 权限管理、支付宝、微信支付、阿里 oss 、友盟推送、融云即时通讯、云通讯短信、Email 、Excel 、PDF 等等；基于 thinkphp 扩展了大量的功能；而不改动 thinkphp 核心；非常方便的升级、移植和使用；
+* [rybakit/phpunit-extras](https://github.com/rybakit/phpunit-extras) - Your own custom annotations and expectations for PHPUnit.
