@@ -4,7 +4,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 
 * [laravel/laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans
 * [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-* [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+* [fakerphp/faker](https://github.com/fakerphp/faker) - Faker is a PHP library that generates fake data for you
 * [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 * [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
