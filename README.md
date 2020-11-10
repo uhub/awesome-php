@@ -177,7 +177,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [Atlantic18/DoctrineExtensions](https://github.com/Atlantic18/DoctrineExtensions) - Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable
 * [spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 * [anchorcms/anchor-cms](https://github.com/anchorcms/anchor-cms) - A lightweight blog CMS for PHP
-* [facebookarchive/facebook-php-sdk](https://github.com/facebookarchive/facebook-php-sdk) - This SDK is deprecated.  Find the new SDK here: https://github.com/facebook/facebook-php-sdk-v4
+* [facebook/facebook-php-sdk-v4](https://github.com/facebook/facebook-php-sdk-v4) - The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.
 * [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail) - Simple, modern & fast web-based email client
 * [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 * [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
