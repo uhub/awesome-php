@@ -987,3 +987,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [facebook/php-graph-sdk](https://github.com/facebook/php-graph-sdk) - The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.com/docs/php
 * [jeremeamia/super_closure](https://github.com/jeremeamia/super_closure) - Serialize closures with this uncanny PHP library.
 * [laravelio/portal](https://github.com/laravelio/portal) - The Laravel.io Community Portal
+* [rybakit/phpunit-extras](https://github.com/rybakit/phpunit-extras) - Your own custom annotations and expectations for PHPUnit.
