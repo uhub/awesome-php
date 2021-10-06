@@ -50,6 +50,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [walkor/Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols. PHP>=5.3.
 * [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 * [symfony/console](https://github.com/symfony/console) - The Console component eases the creation of beautiful and testable command line interfaces.
+* [Termage](https://github.com/termage/termage) - Fluent and incredible powerful, object-oriented interface for customizing CLI output text color, background, formatting, theming and more.
 * [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 * [deployphp/deployer](https://github.com/deployphp/deployer) - A deployment tool written in PHP with support for popular frameworks out of the box
 * [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
