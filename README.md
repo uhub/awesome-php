@@ -17,6 +17,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 * [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 * [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
+* [Mezon](https://github.com/alexdodonov/mezon) - A small framework for creating web applications and microservices
 * [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 * [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
