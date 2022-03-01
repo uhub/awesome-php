@@ -992,3 +992,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [facebook/php-graph-sdk](https://github.com/facebook/php-graph-sdk) - The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.  https://developers.facebook.com/docs/php
 * [jeremeamia/super_closure](https://github.com/jeremeamia/super_closure) - Serialize closures with this uncanny PHP library.
 * [laravelio/portal](https://github.com/laravelio/portal) - The Laravel.io Community Portal
+* [cidaas/cidaas](https://github.com/Cidaas/cidaas-sdk-php) - library to integrate [cidaas](https://www.cidaas.com) (Cloud Identity & Access Management) for authentication and authorization of users
