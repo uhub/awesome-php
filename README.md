@@ -962,3 +962,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [appstract/laravel-blade-directives](https://github.com/appstract/laravel-blade-directives) - A collection of nice Laravel Blade directives
 * [Seldaek/phar-utils](https://github.com/Seldaek/phar-utils) - PHAR file format utilities, for when PHP phars you up.
 * [bixuehujin/blink](https://github.com/bixuehujin/blink) - A high performance web framework and application server in PHP.
+
+## Resources
+
+* [PHP Weekly](https://discu.eu/weekly/php/) - Each monday projects, articles and tutorials about PHP.
