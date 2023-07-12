@@ -8,6 +8,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 * [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+* [RocketGit](http://rocketgit.com) - FOSS Git hosting platform with webhooks, anonpush, zero Javascript and more
 * [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 * [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 * [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
