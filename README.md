@@ -661,3 +661,5 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [3masterplus/book](https://github.com/3masterplus/book) - Book PDF
 * [seblucas/cops](https://github.com/seblucas/cops) - Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [composer-unused/composer-unused](https://github.com/composer-unused/composer-unused) - Show unused composer dependencies by scanning your code
+* [ta-tikoma/bog-jug](https://github.com/ta-tikoma/bog-jug) - Helper for easy work with regex groups. Convert regex group to php-objects.
+* 
