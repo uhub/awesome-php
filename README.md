@@ -157,6 +157,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [fecshop/yii2_fecshop](https://github.com/fecshop/yii2_fecshop) - yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app, html5，微信小程序微店，微信小程序商城等
 * [theseer/tokenizer](https://github.com/theseer/tokenizer) - A small library for converting tokenized PHP source code into XML (and potentially other formats)
 * [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
+* [JetShip Laravel SaaS Boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate/) - Launch Your SaaS in Days 🚀 with the Power of JetShip.
 * [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 * [nikic/FastRoute](https://github.com/nikic/FastRoute) - Fast request router for PHP
 * [php-webdriver/php-webdriver](https://github.com/php-webdriver/php-webdriver) - PHP client for Selenium/WebDriver protocol. Previously facebook/php-webdriver
