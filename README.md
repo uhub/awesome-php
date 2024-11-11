@@ -101,6 +101,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [sebastianbergmann/php-text-template](https://github.com/sebastianbergmann/php-text-template) - A simple template engine.
 * [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 * [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
+* [laravelcompany/laravelmail.com](https://github.com/laravelcompany/laravelmail.com) - A self-hosted open source application for managing your email marketing.
 * [lcobucci/jwt](https://github.com/lcobucci/jwt) - A simple library to work with JSON Web Token and JSON Web Signature
 * [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB
 * [symfony/debug](https://github.com/symfony/debug) - Provides tools to ease debugging PHP code
