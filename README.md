@@ -959,3 +959,4 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [paypal/PayPal-PHP-SDK](https://github.com/paypal/PayPal-PHP-SDK) - PHP SDK for PayPal RESTful APIs
 * [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 * [Sammyjo20/Saloon](https://github.com/Sammyjo20/Saloon) - Build beautiful API integrations and SDKs with Saloon 🤠
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=uhub_awesome-php) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
