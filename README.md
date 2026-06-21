@@ -53,6 +53,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 * [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 * [PHPOffice/PHPExcel](https://github.com/PHPOffice/PHPExcel) - ARCHIVED
+* [hpakdaman/unfoldcms](https://github.com/hpakdaman/unfoldcms) - Self-hosted Laravel CMS with a React + shadcn/ui admin, REST API v1, HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.
 * [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 * [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 * [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
