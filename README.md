@@ -24,6 +24,7 @@ A curated list of awesome PHP frameworks, libraries and software.
 * [nikic/PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
 * [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+* [Agundur-KDE/BonsaiPress2](https://github.com/Agundur-KDE/BonsaiPress2) - Lean file-based CMS with no database, static HTML export, multi-client support, and a one-command Docker install.
 * [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 * [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 * [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
